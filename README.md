@@ -18,7 +18,6 @@ When I'm not immersed in code, you might find me engaged in my hobby of mycology
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
 <a href="https://www.tiktok.com/@literally.sai"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-<a href="https://www.linkedin.com/in/sai-farahani-4aa2aa316/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/literally_sai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.reddit.com/user/literally_sai/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://www.instagram.com/literally__sai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
