@@ -1,21 +1,9 @@
-# Hello, I'm Sai 👋
+# hi sup, i'm sai 👋
 
-## About Me
-I'm a mostly self-taught developer with a passion for tackling hard problems. My tech journey is fueled by curiosity and a love for continuous learning.
+i fw everything linux, rust, low level and react. love messing with pointers and just trying to break things.
 
-### 💻 Tech Stack
-- Linux enthusiast
-- Rust enjoyer
-- C++ developer
-
-### 🌱 Current Focus
-Always looking to deepen my knowledge in systems programming and exploring new challenges in the software world.
-
-### 🍄 Beyond Coding
-When I'm not immersed in code, you might find me engaged in my hobby of mycology.
-
-## Let's Connect!
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+Proud EUPot Member:
+cracked af(i think)
 
 <a href="https://www.tiktok.com/@literally.sai"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 <a href="https://x.com/literally_sai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
