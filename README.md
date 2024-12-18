@@ -4,6 +4,7 @@ i fw everything linux, rust, low level and react. love messing with pointers and
 
 Proud EUPot Member:
 cracked af(i think)
+
 [![My Skills](https://skillicons.dev/icons?i=rust,react,neovim,postgres,js,html,github,windows,css,ts,linux,cpp,docker,md,blender&perline=5&theme=dark)](https://skillicons.dev)
 
 
