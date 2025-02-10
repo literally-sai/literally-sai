@@ -1,17 +1,26 @@
-# hi sup, i'm sai 👋
+# Sai Farahani  
 
-i fw everything linux, rust, low level and react. love messing with pointers and just trying to break things.
+I'm a self-taught software developer with a strong focus on performance, scalability, and efficient system design.  
+I work across the stack, from low-level systems programming to full-stack web development, with a passion for Linux, Rust, and high-performance computing.  
 
-Proud EUPot Member:
-cracked af(i think)
+### 🛠 What I Do  
+- Develop high-performance software in **Rust, C++**, and **Python**  
+- Build scalable web applications with **React, TypeScript**, and **PostgreSQL**  
+- Optimize data processing pipelines and containerized environments using **Docker** & **Kubernetes**  
+- Write technical articles and teach Rust  
 
-[![My Skills](https://skillicons.dev/icons?i=rust,react,neovim,postgres,js,html,github,windows,css,ts,linux,cpp,docker,md,blender&perline=5&theme=dark)](https://skillicons.dev)
+### 🏆 Notable Achievement  
+- **1st Place, Bulkmasters Hackathon (€10,000 prize)** – Built a mechanical simulation using **JavaScript + Three.js**
+- Earned Google's Cybersecurity Certificate
 
+### 🔧 Technologies  
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,react,ts,postgres,docker,kubernetes,linux,nix,bash,neovim,js,html,css,git,blender&perline=7&theme=dark)](https://skillicons.dev)  
 
-<a href="https://www.tiktok.com/@literally.sai"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-<a href="https://x.com/literally_sai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.reddit.com/user/literally_sai/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-<a href="https://www.instagram.com/literally__sai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
----
+### 📊 GitHub Stats  
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=literally-sai&show_icons=true&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=literally-sai&layout=compact&theme=dark&hide_border=true)  
 
-"The bigger you build the bonfire, the more darkness is revealed." - Terence McKenna
+📫 **Find me at:**  
+- Personal Website: [literally-sai.com](https://literally-sai.com)  
+- GitHub: [literally-sai](https://github.com/literally-sai)  
+- Email: [sai@literally-sai.com](mailto:sai@literally-sai.com)  
