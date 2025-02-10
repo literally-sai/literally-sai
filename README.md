@@ -14,7 +14,7 @@ I work across the stack, from low-level systems programming to full-stack web de
 - Earned Google's Cybersecurity Certificate
 
 ### 🔧 Technologies  
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,react,ts,postgres,docker,kubernetes,linux,nix,bash,neovim,js,html,css,git,blender&perline=7&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,react,ts,postgres,bevy,docker,kubernetes,linux,nix,bash,neovim,js,html,css,git,blender&perline=7&theme=dark)](https://skillicons.dev)  
 
 ### 📊 GitHub Stats  
 ![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=literally-sai&show_icons=true&theme=dark&hide_border=true)  
