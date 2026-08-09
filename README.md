@@ -8,7 +8,7 @@
   <a href="https://literally-sai.com">literally-sai.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://twitter.com/literally_sai">X (Twitter)</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://instagram.com/literally__sai">Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:sai@literally-sai.com">Email</a>
+  <a href="mailto:sai [at] literally-sai.com">Email</a>
 </p>
 
 <br>
